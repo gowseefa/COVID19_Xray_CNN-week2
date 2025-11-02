@@ -10,3 +10,7 @@ Google Colab
 # Results
 The model classifies X-ray images into PNEUMONIA or NORMAL.
 Accuracy depends on dataset and training parameters.
+
+# Open in Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VFnSAABcpZnZAlX2dkblbs5CjBYBKqvY?usp=drive_link)
+
